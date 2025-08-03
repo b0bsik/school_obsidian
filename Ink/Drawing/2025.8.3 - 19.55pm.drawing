@@ -1,0 +1,234 @@
+{
+	"meta": {
+		"pluginVersion": "0.3.4",
+		"tldrawVersion": "2.4.3"
+	},
+	"tldraw": {
+		"document": {
+			"store": {
+				"document:document": {
+					"gridSize": 10,
+					"name": "",
+					"meta": {},
+					"id": "document:document",
+					"typeName": "document"
+				},
+				"page:3qj9EtNgqSCW_6knX2K9_": {
+					"meta": {},
+					"id": "page:3qj9EtNgqSCW_6knX2K9_",
+					"name": "Handwritten Note",
+					"index": "a1",
+					"typeName": "page"
+				},
+				"shape:RbU2K9qHe-s4jMM8A_hRD": {
+					"x": 722.5,
+					"y": 261.61458333333337,
+					"rotation": 0,
+					"isLocked": false,
+					"opacity": 1,
+					"meta": {},
+					"id": "shape:RbU2K9qHe-s4jMM8A_hRD",
+					"type": "draw",
+					"props": {
+						"segments": [
+							{
+								"type": "free",
+								"points": [
+									{
+										"x": 0,
+										"y": 0,
+										"z": 0.5
+									},
+									{
+										"x": 0,
+										"y": -3.33,
+										"z": 0.5
+									},
+									{
+										"x": -3.33,
+										"y": -3.33,
+										"z": 0.5
+									},
+									{
+										"x": -6.67,
+										"y": -3.33,
+										"z": 0.5
+									},
+									{
+										"x": -10,
+										"y": -3.33,
+										"z": 0.5
+									},
+									{
+										"x": -10,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -13.33,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -16.67,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -20,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -23.33,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -26.67,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -33.33,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -36.67,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -43.33,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -46.67,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -60,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -66.67,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -76.67,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -86.67,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -93.33,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -103.33,
+										"y": -6.67,
+										"z": 0.5
+									},
+									{
+										"x": -110,
+										"y": -3.33,
+										"z": 0.5
+									},
+									{
+										"x": -116.67,
+										"y": -3.33,
+										"z": 0.5
+									},
+									{
+										"x": -120,
+										"y": -3.33,
+										"z": 0.5
+									},
+									{
+										"x": -126.67,
+										"y": -3.33,
+										"z": 0.5
+									}
+								]
+							}
+						],
+						"color": "black",
+						"fill": "none",
+						"dash": "draw",
+						"size": "m",
+						"isComplete": true,
+						"isClosed": false,
+						"isPen": false,
+						"scale": 1
+					},
+					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
+					"index": "a1",
+					"typeName": "shape"
+				}
+			},
+			"schema": {
+				"schemaVersion": 2,
+				"sequences": {
+					"com.tldraw.store": 4,
+					"com.tldraw.asset": 1,
+					"com.tldraw.camera": 1,
+					"com.tldraw.document": 2,
+					"com.tldraw.instance": 25,
+					"com.tldraw.instance_page_state": 5,
+					"com.tldraw.page": 1,
+					"com.tldraw.instance_presence": 5,
+					"com.tldraw.pointer": 1,
+					"com.tldraw.shape": 4,
+					"com.tldraw.asset.bookmark": 2,
+					"com.tldraw.asset.image": 5,
+					"com.tldraw.asset.video": 5,
+					"com.tldraw.shape.group": 0,
+					"com.tldraw.shape.text": 2,
+					"com.tldraw.shape.bookmark": 2,
+					"com.tldraw.shape.draw": 2,
+					"com.tldraw.shape.geo": 9,
+					"com.tldraw.shape.note": 7,
+					"com.tldraw.shape.line": 5,
+					"com.tldraw.shape.frame": 0,
+					"com.tldraw.shape.arrow": 5,
+					"com.tldraw.shape.highlight": 1,
+					"com.tldraw.shape.embed": 4,
+					"com.tldraw.shape.image": 4,
+					"com.tldraw.shape.video": 2
+				}
+			}
+		},
+		"session": {
+			"version": 0,
+			"currentPageId": "page:3qj9EtNgqSCW_6knX2K9_",
+			"exportBackground": true,
+			"isFocusMode": false,
+			"isDebugMode": true,
+			"isToolLocked": false,
+			"isGridMode": true,
+			"pageStates": [
+				{
+					"pageId": "page:3qj9EtNgqSCW_6knX2K9_",
+					"camera": {
+						"x": 0,
+						"y": 0,
+						"z": 0.3
+					},
+					"selectedShapeIds": [],
+					"focusedGroupId": null
+				}
+			]
+		}
+	},
+	"previewUri": "<svg xmlns=\"http://www.w3.org/2000/svg\" direction=\"ltr\" width=\"146.66999999999996\" height=\"26.669745542423726\" viewBox=\"585.83 244.94483779090965 146.66999999999996 26.669745542423726\" stroke-linecap=\"round\" stroke-linejoin=\"round\" style=\"background-color: transparent;\"><defs/><g transform=\"matrix(1, 0, 0, 1, 722.5, 261.6146)\" opacity=\"1\"><g transform=\"scale(1)\"><path d=\"M-1.3367,2.6774 T-2.8288,1.8753 -5.7464,0.6568 -8.581,-1.0646 -11.9085,-2.7748 -15.2245,-3.3332 -18.1478,-3.5869 -21.2674,-3.7531 -25.2398,-3.9759 -29.6829,-4.2079 -34.387,-4.3746 -39.2256,-4.5223 -45.6592,-4.629 -53.7189,-4.717 -61.9046,-4.7806 -70.9176,-4.8268 -79.6192,-4.8601 -88.1483,-4.8846 -96.4245,-4.1564 -103.9636,-2.9985 -110.4917,-2.3552 -116.334,-2.0091 -122.9954,-1.7429 -126.5998,-1.5987 A1.7328,1.7328 0 0 1 -126.7402,-5.0613 T-123.136,-5.2096 -116.5462,-5.4811 -110.8295,-5.8308 -104.4917,-6.4666 -96.7626,-7.6602 -88.1542,-8.4547 -79.6189,-8.4785 -70.9172,-8.5108 -61.9037,-8.5549 -53.7172,-8.6148 -45.6543,-8.6958 -39.2155,-8.7899 -34.365,-8.9142 -29.6407,-9.038 -25.1345,-9.191 -21.0381,-9.2688 -17.708,-9.1683 -14.3661,-8.9317 -10.9771,-8.3931 -7.261,-6.4742 -3.5097,-4.5198 -0.2127,-3.3938 1.3367,-2.6774 A2.9925,2.9925 0 0 1 -1.3367,2.6774 Z\" stroke-linecap=\"round\" fill=\"#f2f2f2\"/></g></g></svg>"
+}
